@@ -1,5 +1,9 @@
 export const labels = {
     "home": {"ka": "შინ","fr": "Acceuil", "en": "Home"},
+    "label": {"ka": "იარლიყი","fr": "Libellé", "en": "Label"},
+    "labels": {"ka": "იარლიყები","fr": "Libellés", "en": "Labels"},
+    "list": {"ka": "სია","fr": "Liste", "en": "List"},
+    "user": {"ka": "მომხმარებელი","fr": "Utilisateur", "en": "User"},
     "dashboard": {"ka": "საბორტო დაფა","fr": "Tableau de bord", "en": "Dashboard"},
     "resources": {"ka": "რესურსები","fr": "Ressources", "en": "Resources"},
     "signin": {"ka": "შესვლა","fr": "Se connecter", "en": "Signin"},
