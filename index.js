@@ -1,5 +1,5 @@
 import {labels} from './labels';
-const default_lng = "ka";
+let default_lng = "ka";
 
 export const setUserLang = lng => default_lng = lng;
 
